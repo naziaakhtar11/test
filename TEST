@@ -1,2 +1,6 @@
 Words words words
+<<<<<<< HEAD
 testing change
+======= master
+master change
+>>>>>>> master
